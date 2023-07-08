@@ -1,0 +1,604 @@
+.header-wide { padding-top: 10px; padding-bottom: 10px; }
+.refinance-hero-section { background: url(../images/hero-img-2.jpg)no-repeat; background-size: cover; position: relative; background-position-x: center; }
+.refinance-hero-block { padding-top: 164px; padding-bottom: 164px; }
+.refinance-hero-block h1 { font-size: 48px; line-height: 58px; }
+.refinance-rate-section { background-color: rgba(21, 84, 154, 0.8); color: #fff; padding: 20px 25px; position: absolute; bottom: 0; border-bottom: 5px solid #0a4b94; }   
+.refinance-rate-block { display: inline-block; margin-right: 20px; line-height: 2; }
+.refinance-rate-block-title { letter-spacing: 0px; font-weight: 600; font-size: 32px; margin-bottom: 0px; color: #fff; }
+.how-it-section { color: #fff; }
+.how-it-section .how-it-block { background-color: transparent; padding: 0px; min-height: inherit; margin-bottom: 30px; }
+.how-it-section .how-it-no { float: left; color: #fff; font-size: 30px; height: 67px; width: 67px; background-color: #276ebc; border-radius: 100%; display: block; line-height: 1; padding: 20px 26px; }
+.how-it-section .how-it-content { padding-left: 100px; }
+.benifits-feature { margin-bottom: 30px; }
+.benifits-feature ul { }
+.benifits-feature ul li { padding-left: 20px; margin-bottom: 35px; }
+.benifits-feature .bullet-check-circle-default li:before { font-size: 20px; }
+.loan-rate-table { }
+.loan-rate-table .table-light { background-color: #eff5ff; margin-bottom: 30px; }
+.loan-rate-table .table thead { background-color: #e6f0ff; }
+.loan-rate-table .table>thead>tr>th { text-align: center; color: #15549a; font-size: 18px; border-top: transparent; border-bottom: transparent; padding: 20px 43px 20px; }.loan-rate-table .table tbody tr td { text-align: center; font-size: 16px; color: #414855; font-weight: 600; border-top: transparent; padding: 20px 0px; }
+.loan-half-img { }
+.loan-half-section { padding: 100px; }
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------
+footer
+---------------------------------*/
+.newsletter-form { margin-bottom: 30px; }
+.newsletter-title { color: #778191; margin-top: 10px; }
+.footer { background-color: #1e2127; }
+.footer-logo { margin-bottom: 30px; }
+.widget-footer { }
+.widget-footer ul { }
+.widget-footer ul li { line-height: 1.6; margin-bottom: 8px; }
+.widget-footer ul li a { color: #778191; }
+.widget-footer ul li a:hover { color: #f51f8a; }
+.tiny-footer { background-color: #16191e; font-size: 12px; padding-top: 10px; padding-bottom: 10px; }
+.widget-footer { position: relative; padding-left: 20px; line-height: 32px; }
+.widget-footer ul li:before { font-family: 'FontAwesome'; display: block; position: absolute; left: 0; font-size: 15px; color: #778191; content: "\f105"; }
+.widget-social { }
+.widget-social ul { }
+.widget-social ul li { line-height: 1.6; margin-bottom: 8px; }
+.widget-social ul li a { color: #778191; text-transform: uppercase; font-weight: 500; }
+.widget-social ul li a i { width: 30px; }
+.widget-social ul li a:hover { color: #f51f8a; text-decoration: underline; }
+.address-text { }
+.call-text { }
+.call-text span { padding-right: 10px; vertical-align: -webkit-baseline-middle; }
+
+/*--------------------------------
+Page header
+---------------------------------*/
+.page-header { margin: 0; padding: 175px 0px 80px; min-height: 410px; border: none; background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), rgba(0, 0, 0, 0.2) url(../images/page-header.jpg) no-repeat center; background-size: cover; }
+.page-title { margin-bottom: 0px; font-size: 36px; }
+.rate-block { text-align: right; }
+.rate-number { margin-bottom: 0px; line-height: 1; color: #f51f8a; }
+.btn-action { text-align: right; }
+.sub-nav { background-color: #eff3f8; border-top: 1px solid #dee7f2; }
+.is-sticky .sub-nav { position: relative; z-index: 9; top: 120px; }
+.sub-nav>.nav { }
+.sub-nav>.nav li a { padding: 16px; font-size: 14px; text-transform: uppercase; color: #7e93ae; font-weight: 500; border-right: 1px solid #dee7f2; }
+.sub-nav>.nav li a:hover { background-color: #fff; color: #f51f8a; }
+.sub-nav>.nav li a:focus { background-color: #fff; color: #f51f8a; }
+.sub-nav>.nav li.active a { color: red; background-color: #fff; color: #f51f8a; }
+.page-breadcrumb { }
+.page-breadcrumb .breadcrumb { background-color: transparent; padding: 0px; font-size: 12px; text-transform: uppercase; color: #15549a; font-weight: 700; }
+.page-breadcrumb .breadcrumb>li { }
+.page-breadcrumb .breadcrumb>.active { color: #fff; font-weight: 700; }
+.page-breadcrumb .breadcrumb>li a { color: #15549a; font-weight: 700; }
+.page-breadcrumb .breadcrumb>li a:hover { color: #f51f8a; }
+.page-breadcrumb .breadcrumb>li+li:before { padding: 0 5px; color: #15549a; content: "/\00a0"; }
+
+/*--------------------------------
+Blog
+---------------------------------*/
+.post-holder { border-bottom: 1px solid #e8eaec; margin-bottom: 29px; }
+.post-header { border-bottom: 1px solid #dee4ee; margin-bottom: 20px; padding-bottom: 19px; }
+.post-block { }
+.post-img { }
+.meta { font-size: 12px; text-transform: uppercase; font-weight: 600; color: #a4a7ac; margin-bottom: 14px; margin-top: 14px; }
+.meta span { margin-right: 0px; }
+.meta span:after { margin-left: 15px; margin-right: 15px; color: #b0b0b0; content: "|"; }
+.meta span:last-child:after { margin-left: 0px; margin-right: 0px; content: ""; }
+
+/*----- Related Post-----*/
+.post-related { border-bottom: 1px solid #e8eaec; }
+.post-related-title { }
+.post-related-content { }
+.related-title { font-size: 18px; color: #4b5565; }
+.related-img { }
+
+/*----- prev-next-----*/
+.post-navigation { border-bottom: 1px solid #e8eaec; margin-bottom: 29px; padding-bottom: 30px; }
+.nav-links { }
+.nav-previous { }
+.prev-link, .next-link { color: #778191; margin-bottom: 10px; display: block; text-decoration: underline; text-transform: uppercase; font-weight: 600; font-size: 14px; letter-spacing: 1px; }
+.nav-next { }
+.next-link { }
+.prev-link { }
+.prev-link:hover, .next-link:hover { color: #f51f8a }
+.meta-date { color: #f51f8a; font-weight: 600; }
+.meta-author { }
+.meta-comments { }
+#post-gallery { }
+.quote-block { }
+.meta-link { color: #a4a7ac; }
+
+/*--------------------------------
+Blog-sidebar
+---------------------------------*/
+.widget { padding: 30px; margin-bottom: 30px; }
+.widget-title { border-bottom: 1px solid #e8eaec; margin-bottom: 19px; padding-bottom: 20px; }
+.widget-search { }
+.widget-category { }
+.widget-category li a, .widget-archives li a { padding-top: 10px; padding-bottom: 10px; display: block; line-height: 14px; color: #797b80; font-size: 14px; }
+.widget-category li a:hover, .widget-archives li a:hover { color: #f51f8a; }
+.widget-tags { }
+.widget-tags a { text-transform: uppercase; border: 2px solid #c3c7d1; padding: 9px 16px; display: inline-block; margin-bottom: 5px; font-weight: 700; font-size: 12px; line-height: 12px; color: #9a9fab; border-radius: 4px; letter-spacing: 1px; }
+.widget-tags a:hover { background-color: #f51f8a; color: #fff; border-color: #f51f8a; }
+
+/*----- post-author-----*/
+.post-author { border-bottom: 1px solid #e8eaec; margin-bottom: 29px; padding-bottom: 30px; }
+.author-img { }
+.author-bio { }
+.author-header { }
+.author-header small { text-transform: uppercase; color: #de4526; font-weight: 700; margin-left: 15px; }
+.author-content { }
+.author-social { }
+.author-social a { color: #707070; display: inline-block; text-align: center; font-size: 13px; padding: 8px 12px; }
+.author-social a:hover { background-color: #de4526; color: #fff; }
+
+/*----- comments-----*/
+.comments-area { border-bottom: 1px solid #e8eaec; padding-bottom: 40px; }
+.comments-title { margin-bottom: 40px; }
+.comment-list { }
+.comment { }
+.comment-body { margin-bottom: 60px; }
+.comment-author { }
+.comment-author img { width: 120px; float: left; }
+.comment-info { padding-left: 160px; }
+.comment-header { }
+.user-title { margin-bottom: 0px; }
+.comment-meta { margin-bottom: 20px; font-size: 13px; font-weight: 400; text-transform: uppercase; }
+.comment-meta-date { }
+.comment-content { }
+.reply { }
+.reply-title { margin-bottom: 40px; }
+.childern { padding-left: 140px; }
+.leave-comments { background-color: #f3f5f5; }
+.widget-share { background-color: #fff; padding: 14px; position: absolute; top: 0px; right: -56px; }
+.btn-share { padding: 12px 16px; display: inline-block; line-height: 1; margin-bottom: 2px; font-size: 14px; width: 40px; }
+.btn-facebook { background-color: #3b5998; color: #fff; }
+.btn-facebook:hover { background-color: #3b5998; color: #fff; }
+.btn-twitter { background-color: #1da1f2; color: #fff; }
+.btn-twitter:hover { background-color: #1da1f2; color: #fff; }
+.btn-google { background-color: #dc483a; color: #fff; }
+.btn-google:hover { background-color: #dc483a; color: #fff; }
+.btn-linkedin { background-color: #0088b5; color: #fff; }
+.btn-linkedin:hover { background-color: #0088b5; color: #fff; }
+
+/*--------------------------------
+Blog-single
+---------------------------------*/
+.name { font-size: 14px; text-transform: uppercase; color: #f51f8a; font-weight: 600; padding-left: 30px; }
+
+/*--------------------------------
+Pagination
+---------------------------------*/
+.st-pagination { }
+.st-pagination .pagination>li>a, .pagination>li>span { position: relative; float: left; margin-left: -1px; line-height: 1.42857143; color: #9a9fab; text-decoration: none; font-size: 12px; border: 2px solid #c3c7d1; font-weight: 600; border-radius: 4px; text-transform: uppercase; margin-right: 3px; margin-bottom: 5px; background-color: #fff; padding: 8px 13px; }
+.st-pagination .pagination>li>a:focus, .st-pagination .pagination>li>a:hover, .st-pagination .pagination>li>span:focus, .st-pagination .pagination>li>span:hover { z-index: 2; color: #fff; background-color: #f51f8a; border-color: #f51f8a; border-radius: 4px; }
+.st-pagination .pagination>li:first-child>a, .st-pagination .pagination>li:first-child>span { margin-left: 0; border-radius: 4px; }
+.st-pagination .pagination>li:last-child>a, .st-pagination .pagination>li:last-child>span { border-radius: 4px; }
+.st-pagination .pagination>.active>a, .st-pagination .pagination>.active>a:focus, .st-pagination .pagination>.active>a:hover, .st-pagination .pagination>.active>span, .st-pagination .pagination>.active>span:focus, .st-pagination .pagination>.active>span:hover { z-index: 3; color: #fff; cursor: default; background-color: #f51f8a; border-color: #f51f8a; border-radius: 4px; }
+.st-accordion { }
+.st-accordion .sign { color: #3c4d6b; padding: 0 2px; position: absolute; left: 0px; top: 5px; margin-left: -20px; font-size: 14px; }
+.st-accordion .accordion .panel-heading.active .sign { color: #95cd40; }
+.st-accordion .panel-title { margin-top: 0; margin-bottom: 0; font-size: 18px; color: inherit; position: relative; color: #3c4d6b; }
+.sign { color: #084988; padding: 0 2px; position: absolute; right: -10px; top: 6px; }
+.st-accordion .panel-heading.active .sign { color: #f51f8a; }
+.st-accordion .panel { margin-bottom: 20px; background-color: #fff; border: 1px solid transparent; border-radius: 0px; -webkit-box-shadow: none; box-shadow: none; }      
+.st-accordion .panel-default { border-color: transparent; border-bottom: 1px solid #e0e7ea; }
+.st-accordion .panel-group .panel { margin-bottom: 10px; border-radius: 0px; -webkit-box-shadow: 0px 0px 0px 0px rgba(234, 234, 234, 1); -moz-box-shadow: 0px 0px 0px 0px 
+rgba(234, 234, 234, 1); box-shadow: 0px 0px 0px 0px rgba(234, 234, 234, 1); }
+.st-accordion .panel-default>.panel-heading { color: #323734; background-color: #fff; border-bottom: 1px solid transparent; padding: 10px 0px 10px 30px; }
+.st-accordion .panel-group .panel-heading+.panel-collapse>.list-group, .st-accordion .panel-group .panel-heading+.panel-collapse>.panel-body { }
+.st-accordion .panel-body { padding: 30px; }
+.st-accordion .panel-group .panel-heading+.panel-collapse>.list-group, .panel-group .panel-heading+.panel-collapse>.panel-body { border-top: 1px solid transparent; }     
+
+/*--------------------------------
+Extra Plugin CSS - Back to top
+---------------------------------*/
+.cd-top { display: inline-block; height: 40px; width: 40px; position: fixed; bottom: 40px; right: 10px; overflow: hidden; text-indent: 100%; white-space: nowrap; visibility: hidden; border-radius: 5px; background: rgba(245, 31, 138, 100) url(../images/cd-top-arrow.svg) no-repeat center 50%; opacity: 0; -webkit-transition: opacity .3s 0s, 
+visibility 0s .3s; -moz-transition: opacity .3s 0s, visibility 0s .3s; transition: opacity .3s 0s, visibility 0s .3s; }
+.cd-top.cd-is-visible, .cd-top.cd-fade-out, .no-touch .cd-top:hover { -webkit-transition: opacity .3s 0s, visibility 0s 0s; -moz-transition: opacity .3s 0s, visibility 0s 0s; transition: opacity .3s 0s, visibility 0s 0s; }
+.cd-top.cd-is-visible {    /* the button becomes visible */
+visibility: visible; opacity: 1; }
+.cd-top.cd-fade-out {    /* if the user keeps scrolling down, the button is out of focus and becomes less visible */
+opacity: .5; }
+.no-touch .cd-top:hover { background-color: #cb2529; opacity: 1; }
+
+/*-------- filter gallery -------*/
+.isotope-item { z-index: 2; }
+.isotope-hidden.isotope-item { pointer-events: none; z-index: 1; }
+.isotope, .isotope .isotope-item {    /* change duration value to whatever you like */
+-webkit-transition-duration: 0.8s; -moz-transition-duration: 0.8s; transition-duration: 0.8s; }
+.isotope { -webkit-transition-property: height, width; -moz-transition-property: height, width; transition-property: height, width; }
+.isotope .isotope-item { -webkit-transition-property: -webkit-transform, opacity; -moz-transition-property: -moz-transform, opacity; transition-property: transform, opacity; }
+.portfolioContainer { }
+.portfolioFilter { margin-bottom: 30px; text-align: center; }
+.portfolioFilter a { text-transform: uppercase; background-color: #eff3f8; padding: 9px 26px; display: inline-block; color: #7e93ae; font-size: 12px; font-weight: 500; margin-bottom: 5px; border: 1px solid #dee7f2; }
+.portfolioFilter a:hover { color: #fff; background-color: #f51f8a; border: 1px solid #f51f8a; }
+.portfolioFilter a.current { color: #fff; text-decoration: none; background-color: #f51f8a; border: 1px solid #f51f8a; }
+
+/*---------- Thumbnail hover effect -------*/
+
+/* ============================================================
+GLOBAL
+============================================================ */
+
+.effects { }
+.effects .img { position: relative; }
+.effects .img:nth-child(n) { }
+.effects .img:first-child { margin-bottom: 20px; }
+.effects .img:last-child { margin-right: 0; }
+.effects .img img { display: block; margin: 0; padding: 0; max-width: 100%; height: auto; }
+.overlay { display: block; position: absolute; z-index: 20; background: rgba(246, 96, 171, 0.8); overflow: hidden; -webkit-transition: all 0.5s; -moz-transition: all 0.5s; -o-transition: all 0.5s; transition: all 0.5s; }
+a.close-overlay { display: block; position: absolute; top: 0; right: 0; z-index: 100; width: 45px; height: 45px; font-size: 20px; font-weight: 700; color: #fff; line-height: 45px; text-align: center; background-color: #de4526; cursor: pointer; }
+a.close-overlay.hidden { display: none; }
+a.expand { display: block; position: absolute; z-index: 100; width: 60px; height: 60px; border: solid 5px #fff; text-align: center; color: #fff; line-height: 50px; font-weight: 700; font-size: 30px; -webkit-border-radius: 30px; -moz-border-radius: 30px; -ms-border-radius: 30px; -o-border-radius: 30px; border-radius: 30px; }
+
+/* ============================================================
+EFFECT 6 - ICON BOUNCE IN
+============================================================ */
+#effect-6 .overlay { top: 0; bottom: 0; left: 0; right: 0; opacity: 0; }
+#effect-6 .overlay a.expand { left: 0; right: 0; top: 0; margin: 0 auto; opacity: 0; -webkit-transition: all 0.5s; -moz-transition: all 0.5s; -o-transition: all 0.5s; transition: all 0.5s; }
+#effect-6 .img.hover .overlay { opacity: 1; }
+#effect-6 .img.hover .overlay a.expand { top: 50%; margin-top: -30px; opacity: 1; }
+
+/*----------------- Gallery Wide ---------------*/
+.gallery-thumbnail { }
+.gallery-thumbnail img { width: 100%; }
+.gallery-img img { width: 100%; }
+.gallery-block { }
+
+/*----------------- Image Hover Effect ---------------*/
+img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border: none; line-height: normal; vertical-align: middle; }
+.imghover { display: block; position: relative; max-width: 100%; }
+.imghover::before, .imghover::after { display: block; position: absolute; content: ""; text-align: center; opacity: 0; }
+.imghover::before { top: 0; right: 0; bottom: 0; left: 0; }
+.imghover::after { top: 50%; left: 50%; width: 50px; height: 50px; line-height: 50px; margin: -25px 0 0 -25px; content: "\f06e";    /* fa-eye */ font-family: "FontAwesome"; font-size: 36px; }
+.imghover:hover::before, .imghover:hover::after { opacity: 1; }
+.imghover:hover::before { background: rgba(34, 62, 92, .55); }
+.imghover:hover::after { color: #FFFFFF; }
+
+/*--------------------------------
+Team
+---------------------------------*/
+.team-block { }
+.team-img { }
+.team-content { }
+.designation { font-size: 12px; color: #f51f8a; text-transform: uppercase; font-weight: 600; }
+
+/*--------------------------------
+About us
+---------------------------------*/
+.about-section { }
+.counter-section { }
+.why-choose-section { }
+.testimonial-section { }
+.cta-section { }
+.cta-section-second { background: url(../images/cta-img-2.jpg)no-repeat; background-size: cover; }
+.cta-section-second h1 { font-size: 42px; }
+.text-big { font-size: 20px; color: #f51f8a; font-weight: 600; margin-bottom: 0px; }
+
+/*--------------------------------
+Contact us
+---------------------------------*/
+.map { height: 400px; }
+.widget-contact { margin-top: 30px; margin-bottom: 30px; }
+.widget-contact li { margin-bottom: 10px; border-bottom: 1px solid #eff3f8; padding-bottom: 10px; }
+.widget-contact li span { width: 120px; display: inline-block; }
+
+/*----------------- Gallery Wide ---------------*/
+.gallery-thumbnail img { width: 100%; }
+.gallery-img img { width: 100%; }
+.gallery-block { }
+.slide-ranger .ui-widget-header { background-color: #f51f8a; }
+.slide-ranger .ui-state-default, .ui-widget-content .ui-state-default { background-color: #fff !important; }
+.slide-ranger .ui-widget.ui-widget-content { border: 1px solid #f51f8a; }
+.slide-ranger .ui-slider .ui-slider-handle { border-radius: 100%; border: 3px solid #f51f8a; }
+
+/*--------------------------------
+Product Single Sidebar
+---------------------------------*/
+.product-tabs { }
+.product-tabs ul { position: relative; z-index: 9; }
+.product-tabs .nav>li { margin-top: -1px; }
+.product-tabs .nav>li.active a { border-right: 1px solid #f4f6f8; background: #eff3f8; color: #f51f8a; }
+.product-tabs .nav>li>a { background: #fff; border-bottom: 1px solid #dee7f2; border-right: 1px solid #dee7f2; border-left: 1px solid #dee7f2; border-top: 1px solid #dee7f2; color: #7e93ae; }
+.product-tabs .nav>li>a:hover { background: #eff3f8; border-bottom: 1px solid #dee7f2; border-right: 1px solid transparent; border-left: 1px solid #dee7f2; border-top: 1px solid #dee7f2; color: #f51f8a; }
+.product-tabs .nav>li>a i { padding-right: 10px; }
+.tab-content { background: #eff3f8; padding: 40px; border: 1px solid #dee7f2; position: relative; z-index: 8; margin-left: -1px; margin-top: -1px; }
+.fee-table { }
+
+/*--------------------------------
+EMI Calculator
+---------------------------------*/
+.loantable { margin-top: 40px; }
+.table-head { background: #eff3f8; }
+.loan-title { margin-bottom: 30px; }
+.table-bordered { border: 1px solid transparent; color: #333; }
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th { border: 1px solid #dee4ee; color: #3c4d6b; }
+.table-striped>tbody>tr:nth-of-type(odd) { background-color: #fafcfd; }
+.table>thead>tr>th { padding: 12px 43px 12px; line-height: 1.42857143; vertical-align: top; border-top: 1px solid #ddd; text-align: center; }
+
+
+
+/*-----------------------------------------
+Error-page
+------------------------------------------*/
+.error-img { text-align: center; }
+.error-title { font-size: 36px; color: #192139; letter-spacing: 1px; text-transform: uppercase; }
+.msg { font-size: 24px; color: #f51f8a; font-weight: 500; text-transform: uppercase; letter-spacing: 1px; }
+
+/*-----------------------------------------
+Header - 2
+------------------------------------------*/
+.header-2 { background-color: #fff; padding-top: 10px; position: relative; z-index: 9 }
+.header-action { margin-top: 10px; }
+.header-2 .navigation-2 { background-color: #fff; border-top: 1px solid #dee7f2; margin-top: 20px; border-bottom: 1px solid #dee7f2; }
+.header-2 #navigation { float: left; margin-top: 0px; background-color: #fff; }
+.header-2 #navigation>ul>li>a { padding: 16px 30px; font-size: 13px; text-decoration: none; color: #66707f; font-weight: 600; text-transform: uppercase; border-left: 1px 
+solid #dee7f2; }
+.header-2 #navigation>ul>li.has-sub>a { padding-right: 50px; }
+.header-2 #navigation>ul>li.has-sub>a:before { position: absolute; right: 28px; font-family: FontAwesome; content: "\f107"; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
+
+/*-----------------------------------------
+Landing Page Template
+------------------------------------------*/
+.hero { position: relative; padding-top: 60px; padding-bottom: 100px; background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), rgba(0, 0, 0, 0.2) url(../images/lp-car-image.jpg) no-repeat center; background-size: cover; }
+.hero-home-loan { position: relative; padding-top: 60px; padding-bottom: 100px; background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), rgba(0, 0, 0, 0.2) url(../images/home-loan-lp.jpg) no-repeat center; background-size: cover; }
+.hero-title { font-size: 48px; line-height: 52px; color: #fff; font-weight: 800; letter-spacing: -1px; margin-bottom: 30px; }
+.hero-captions { padding-top: 80px; }
+.hero-text { color: #fff; }
+.request-form { background-color: #fff; padding: 30px; border-radius: 4px; }
+.form-title { color: #104b8c; font-size: 30px; }
+.price-rate { margin-top: 30px; }
+.price-big { font-size: 40px; color: #fff; font-weight: 800; }
+.price-rate small { color: #fff; text-transform: uppercase; }
+.new-price, .old-price { margin-bottom: 30px; }
+
+/*--------------- Features block class --------------*/
+.circle-outline-icon { font-size: 36px; height: 80px; width: 80px; border: 2px solid #85b6ee; border-radius: 100%; padding: 18px 19px; margin-bottom: 30px; color: #15549a; display: block; line-height: 1.2; text-align: center; }
+.feature-card .feature-content { }
+.feature { }
+.feature-icon { }
+.feature .feature-icon { margin-bottom: 20px; }
+
+/*-------- feature icon left --------*/
+.feature-left { }
+.feature-left .feature-icon { float: left; color: #15549a; font-size: 28px; line-height: 1; }
+.feature-left .feature-content { padding-left: 60px; }
+.feature-content { }
+
+/*--------- feature center --------*/
+.feature-center { text-align: center; }
+.feature-center .feature-icon { margin-bottom: 20px; }
+.feature-icon-style { text-align: center; }
+.feature-icon-style .feature-icon { margin: 0 auto 40px auto; background-color: #f4f6f8; width: 80px; height: 80px; border-radius: 100px; padding: 24px; text-align: center; color: #15549a; }
+.feature-icon-style .feature-title { margin-bottom: 16px; }
+.call-to-action { color: #fff; }
+.feature-circle { background-color: #f4f6f8; width: 60px; height: 60px; border-radius: 100px; padding: 14px; color: #15549a; font-size: 26px; text-align: center; }       
+
+/*----- updated in v 1.0.2 ----*/
+.feature-bg { background-color: #e3edf9; border-radius: 4px; padding: 60px; text-align: center; }
+.feature-bg .feature-icon { background-color: #bacadd; color: #3c4d6b; width: 120px; height: 120px; border-radius: 120px; font-size: 40px; text-align: center; line-height: 120px; margin: 0 auto 40px auto; }
+.feature-bg .feature-content { }
+.feature-list-bar { background: #e3edf9; padding-top: 16px; padding-bottom: 16px; color: #3c4d6b; }
+@media screen and (max-width:1366px) {
+  .slider-captions { position: absolute; bottom: 70px; width: 100%; }
+  .slider-title { color: #fff; font-size: 32px; font-weight: 700; line-height: 42px; }
+  .slider .owl-prev { position: absolute; left: 0px; top: 40%; left: 0px; }
+  .slider .owl-next { position: absolute; right: 0px; top: 40%; right: 0px; }
+}
+@media screen and (min-width:1300px) and (max-width:1440px) {
+  .slider-captions { position: absolute; bottom: 100px; width: 100%; }
+}
+@media screen and (min-width:992px) and (max-width:1200px) {
+
+  /*--------------- index - 8 -------------*/
+  .refinance-rate-block-title { letter-spacing: 0px; font-weight: 600; font-size: 27px; }
+  .loan-half-section { padding: 50px; }
+
+  /*--------------- card landing page  ---------- */
+  .card-benefit-tabs .st-tabs .nav-link { display: block; padding: 16px 27px; }
+
+/*--------------- borrow life saving   ---------- */
+  .bank-account-tabs.st-tabs .nav-link {
+
+    padding: 16px 46px;
+}
+
+}
+
+/*============= media query max-width: 768px; =============*/
+@media only screen and (max-width:768px) {
+
+  /* start query */
+  .header { padding-top: 5px; padding-bottom: 5px; }
+  .logo { }
+
+  /*--------------- slider for mobile view ( for mobile view  )---------- */
+  .slider-captions { position: absolute; bottom: 28px; text-align: center; }
+  .slider-title { color: #fff; font-size: 22px; text-transform: uppercase; font-weight: 700; line-height: 26px; }
+  .slider .owl-prev { position: absolute; left: 0px; top: 30%; left: 0px; }
+  .slider .owl-next { position: absolute; right: 0px; top: 30%; right: 0px; }
+
+  /*--------------- Page Header ( for mobile view  )---------- */
+  .page-header { padding: 40px 0px 80px; }
+  .page-title { font-size: 28px; margin-bottom: 14px; }
+  .btn-action { text-align: center; }
+  .btn-action .btn { padding: 10px; float: left; margin-left: 5px; }
+  .sub-nav>.nav li a { border-bottom: 1px solid #dee7f2; margin-bottom: 0px; }
+  .childern { padding-left: 0px; }
+  .widget-share { background-color: #fff; padding: 14px; position: absolute; top: 0px; right: 0px; }
+  .search-nav { display: none; }
+  .rate-counter-block { text-align: center; }
+  .rate-icon { float: none; margin-bottom: 10px; }
+  .loan-rate { font-size: 24px; }
+
+  /*--------------- index - 4 ()-------------*/
+  .header-transparent { position: relative; background-color: #15549a; }
+  .header-transparent #navigation.small-screen #menu-button { display: block; padding: 16px 0px; color: #f51f8a; cursor: pointer; font-size: 12px; text-transform: uppercase; font-weight: 700; border-top: 1px solid #0a4587; margin-top: 20px; }
+  .header-transparent #navigation.small-screen ul li { width: 100%; border-top: 1px solid #0a4587; }
+  .header-transparent #navigation.small-screen .submenu-button { position: absolute; z-index: 99; right: 0; top: 0; display: block; border-left: 1px solid #0a4587; height: 46px; width: 46px; cursor: pointer; }
+  .header-transparent #navigation.small-screen ul ul li a { color: #fff; background: none; }
+  .video-play { left: 39%; top: 45px; }
+  .st-tabs .nav-link { padding: 16px 11px; }
+  .lender-ads-rate, .lender-compare-rate { width: 123px; }
+  .sub-nav>.nav li a { padding: 8px 0px; font-size: 11px; }
+  .portfolioFilter a { text-transform: uppercase; background-color: #eff3f8; padding: 9px 23px; }
+
+  /*--------------- index-6 ---------- */
+  .lead-hero-caption { padding-top: 0px; }
+  .header-wide .lead { font-size: 19px; }
+
+  /*--------------- index-7 ---------- */
+
+  /*--------------- index-8 ---------- */
+  .refinance-hero-block { padding-top: 100px; padding-bottom: 160px; }
+  .loan-half-section { padding: 66px; }
+
+  /*--------------- compare credit card  ---------- */
+  .expandable-info .card { min-height: inherit; }
+
+  /*--------------- compare personal loan card  ---------- */
+  .compare-personal-loan-table .table>tbody>tr>td { padding: 6px; }
+  .compare-personal-loan-title { font-size: 13px; font-weight: 600; display: block; width: 148px; }
+  .expandable-info .card { min-height: inherit; }
+
+  /*--------------- compare student loan card  ---------- */
+  .compare-student-loan-table .table>tbody>tr>td { padding: 6px; }
+  .compare-student-loan-title { font-size: 13px; font-weight: 600; display: block; width: 148px; }
+  .expandable-info .card { min-height: inherit; }
+
+  /*--------------- card landing page  ---------- */
+  .header-wide .lead, .header-wide .lead { font-size: 21px; }
+  .card-benefit-tabs .st-tabs .nav-link { display: block; padding: 16px 8px; }
+  .card-benefit-tabs .st-tabs a { font-size: 12px; }
+
+  /*--------------- Index - 9 bank borrow  ---------- */
+  .overlay-section { margin-top: 0px; }
+  .overlay-section .card { margin-bottom: 20px; }
+  .post-caption-content h3 {
+    font-size: 12px;
+    line-height: 18px;}
+}
+@media only screen and (max-width:460px) {
+
+  /*--------------- slider for mobile view ( for mobile view  )---------- */
+  .slider-captions { position: absolute; bottom: 10px; text-align: center; width: 100%; }
+  .slider-title { color: #fff; font-size: 18px; text-transform: uppercase; font-weight: 700; line-height: 26px; }
+  .slider .owl-prev { position: absolute; left: 0px; top: 30%; left: 0px; }
+  .slider .owl-next { position: absolute; right: 0px; top: 30%; right: 0px; }
+  .rate-icon { float: none; }
+  .rate-counter-block { text-align: center; }
+  .loan-rate { font-size: 24px; }
+  .widget-share { background-color: #fff; padding: 14px; position: absolute; top: 0px; right: 0px; }
+  .search-nav { display: none; }
+  .top-text { padding-left: 14px; }
+  .header-action { text-align: center; }
+  .rate-badge { display: none; }
+  .video-play { left: 39%; }
+
+  /*--------------- index-6 ---------- */
+  .lead-hero-caption { padding-top: 0px; }
+
+  /*--------------- index-7 ---------- */
+  #navigation { margin-top: 18px; }
+  .hero-tab-block { padding-top: 91px; padding-bottom: 100px; }
+
+  /*--------------- index-8 ---------- */
+  .refinance-rate-block-title { font-size: 24px; }
+  .refinance-hero-block { padding-top: 44px; }
+
+  /*--------------- compare credit card  ---------- */
+  .compare-table .table>tbody>tr>td { padding: 10px; }
+  .compare-card-title { font-size: 13px; font-weight: 600; display: block; width: 148px; }
+  .expandable-info .card { min-height: inherit; }
+
+  /*--------------- compare personal loan card  ---------- */
+  .compare-personal-loan-table .table>tbody>tr>td { padding: 10px; }
+  .compare-personal-loan-title { font-size: 13px; font-weight: 600; display: block; width: 148px; }
+  .expandable-info .card { min-height: inherit; }
+
+  /*--------------- compare student loan card  ---------- */
+  .compare-student-loan-table .table>tbody>tr>td { padding: 10px; }
+  .compare-student-loan-title { font-size: 13px; font-weight: 600; display: block; width: 148px; }
+  .expandable-info .card { min-height: inherit; }
+
+  /*--------------- card landing page  ---------- */
+  .card-benefit-tabs .st-tabs .nav-link { display: block; padding: 16px 58px; border: 1px solid #f6f9ff; border-radius: 5px; background-color: #f6f9ff; margin-bottom: 8px; margin-right: 10px; }
+  .header-wide .lead, .header-wide .lead { font-size: 13px; }
+  .card-hero-section { padding-top: 60px; padding-bottom: 60px; }
+
+  /*--------------- Index - 9 bank borrow  ---------- */
+  .overlay-section { margin-top: 0px; }
+  .overlay-section .card { margin-bottom: 20px; }
+  .hover-tabs.st-tabs .nav-link { display: block; padding: 0px 39px 3px 0px; }
+  .quick-info span:nth-child(2){display: none;}
+/*--------------- borrow-life-saving  ---------- */
+.bank-account-tabs.st-tabs .nav-link {
+
+    padding: 16px 57px;
+}
+
+}
+@font-face {
+  font-family: 'fontello';
+  src: url('../fonts/fontellof887.eot?72294633');
+  src: url('../fonts/fontellof887.eot?72294633#iefix') format('embedded-opentype'),
+       url('../fonts/fontellof887.html?72294633') format('woff2'),
+       url('../fonts/fontellof887.woff?72294633') format('woff'),
+       url('../fonts/fontellof887.ttf?72294633') format('truetype'),
+       url('../fonts/fontellof887.svg?72294633#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?72294633#fontello') format('svg');
+  }
+}
+*/
+
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+
+  display: inline-block;
+  text-decoration: inherit;
+
+
+  /* opacity: .8; */
+
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+
